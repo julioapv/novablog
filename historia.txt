@@ -1,6 +1,9 @@
-Esta es la historia de Julio Peña
+Esta es la historia de Julio Peña.
 
 Julio Peña tiene 21 años y y nació en Venezuela, 
-viviendo en San Antonio de los Altos
+viviendo en San Antonio de los Altos.
 
-Hoy hablaremos de su historia
+Hoy hablaremos de su historia.
+
+
+Actualmente se encuentra estudiando para convertirse en desarrollador WEB.
