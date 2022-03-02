@@ -6,4 +6,8 @@ En realidad este es un blog diseñado como ejemplo para el curso de Git y GitHub
 
 **Ola k ase**
 
+## VIÑETAS
+* Hola soy una viñeta
+* Prueba.txt
+
 **¡Disfruten!**
